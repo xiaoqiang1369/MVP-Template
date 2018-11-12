@@ -5,6 +5,5 @@ package xiaoqiang.com.jetpacktest.base.kotlin
  *   created by crx on 2018/11/7 15:59
  */
 interface BasePresenter {
-    
     fun start()
 }
